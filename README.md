@@ -11,7 +11,7 @@ api для общения кдиент-сервер, cli для пользова
 пишем на fastapi , так как есть встоенная документация и свагер.
 добавялем базу через sqlalchemy пока на sqlite потом чтото поудобнее.  
 подумаем над celery 
-применить разные методы dataclass для своих типов данных 
+применить разные методы dataclass для своих типов данных (dataclass_json  это как marshmelov ? )
 методы классов property,classmetod,saticmethod  
 и разные marshmelov для json данных.
 
