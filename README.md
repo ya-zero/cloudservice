@@ -11,3 +11,13 @@ api для общения кдиент-сервер, cli для пользова
 пишем на fastapi , так как есть встоенная документация и свагер.
 добавялем базу через sqlalchemy пока на sqlite потом чтото поудобнее.  
 подумаем над celery 
+применить разные методы dataclass для своих типов данных 
+методы классов property,classmetod,saticmethod  
+и разные marshmelov для json данных.
+
+поднять  затем grafana+proketheus. ну и mysql и psql
+
+
+
+
+
